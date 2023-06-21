@@ -1,6 +1,10 @@
+<div align="center">
+  <a href="https://github.com/JoaoItri">
+    <img align="center" src="Wallpapers/Banner.gif" width="1000">
+  </a>
+</div>
 
-
-<img align="right" alt="conding" width="400" src=>
+<img align="right" alt="conding" width="400" src="https://github.com/JoaoItri/Wallpapers/Banner2.gif">
 <h1 align="center">Bem-Vindo Visitante!👋</h1>
 - 👨‍💻 All of my projects are available at [https://github.com/JoaoItri?tab=projects](https://github.com/JoaoItri?tab=projects)
 
