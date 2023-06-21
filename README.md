@@ -4,9 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joaoitri" target="blank"><img align="center" src="https://raw.githubusercontent.com/JoaoItri/JoaoItri/main/Linkedin.svg" alt="joaoitri" height="30" width="40" /></a>
-<a href="https://instagram.com/jo_itri" target="blank"><img align="center" src="https://raw.githubusercontent.com/JoaoItri/JoaoItri/main/Instagram.svg" 
-alt="jo_itri" height="30" width="40" /></a>
-<a href="https://discord.gg/jhonx#5458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jhonx#5458" height="30" width="40" /></a>
+<a href="https://instagram.com/jo_itri" target="blank"><img align="center" src="https://raw.githubusercontent.com/JoaoItri/JoaoItri/main/Instagram.svg" alt="jo_itri" height="30" width="40" /></a>
+<a href="https://discord.gg/jhonx#5458" target="blank"><img align="center" src="https://raw.githubusercontent.com/JoaoItri/JoaoItri/main/Discord.svg" alt="jhonx#5458" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
