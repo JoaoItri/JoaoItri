@@ -4,9 +4,11 @@
   </a>
 </div>
 
-<img align="right" alt="conding" width="400" src="https://github.com/JoaoItri/Wallpapers/Banner2.gif">
-<h1 align="center">Bem-Vindo Visitante!👋</h1>
-- 👨‍💻 All of my projects are available at [https://github.com/JoaoItri?tab=projects](https://github.com/JoaoItri?tab=projects)
+<div align="right">
+  <a href="https://github.com/JoaoItri">
+    <img align="right" src="Wallpapers/Banner2.gif" width="200">
+  </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
