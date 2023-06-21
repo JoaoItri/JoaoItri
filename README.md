@@ -1,3 +1,6 @@
+
+
+<img align="right" alt="conding" width="400" src=>
 <h1 align="center">Bem-Vindo Visitante!👋</h1>
 - 👨‍💻 All of my projects are available at [https://github.com/JoaoItri?tab=projects](https://github.com/JoaoItri?tab=projects)
 
